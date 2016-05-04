@@ -31,7 +31,7 @@ echo
 cat << EOT > $filename
 releases:
   - name: os-conf
-    version: 1
+    version: 6
 
 addons:
   - name: user_add
